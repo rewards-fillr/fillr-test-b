@@ -11,7 +11,7 @@
 Notes:
 
 - Only edit the widget.js file!
-- You should use postMessage to communicate between iframes.
+- Use postMessage to communicate between iframes.
 - The frame documents should not be edited.
 - The test case should not be changed.
 - Karma config should not be edited.
